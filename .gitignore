@@ -1,0 +1,5 @@
+# Local and historical image iterations are kept outside the deployed repository.
+.openai/
+dist/assets/*
+!dist/assets/donate-qr.png
+!dist/assets/zndtoshi-avatar-refined-skin-v2.png
